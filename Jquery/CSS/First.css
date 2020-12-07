@@ -1,0 +1,90 @@
+.First{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+.A{
+   
+    background-color: antiquewhite;
+}
+.C{
+    
+    background-color: aquamarine;
+}
+.B{
+   
+    background-color: beige;
+   
+}
+.B, .C, .A{
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    
+}
+.Second{
+    height: 100px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+.a{
+  background-color:blanchedalmond;
+}
+.b{
+  background-color: brown;
+}
+.c{
+  background-color: blue;
+}
+.d{
+  background-color: rebeccapurple;
+}
+.e{
+  background-color: blue;
+}
+.f{
+  background-color: gold;
+}
+.g{
+  background-color: yellow;
+}
+.h{
+  background-color: gray;
+}
+.a, .b, .c, .d, .e, .f, .g, .h{    
+    height: 41px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.Third{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: deepskyblue;
+}
+.i{
+  background-color: gray;
+}
+.j{
+  background-color: olive;
+}
+.k{
+  background-color: orangered;
+}
+.l{
+  background-color: orange;
+}
+.m{
+  background-color: lawngreen;
+}
+.i, .j, .k, .l, .m{
+    height: 41px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+} 

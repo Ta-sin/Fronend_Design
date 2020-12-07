@@ -1,0 +1,163 @@
+.Text1{
+    font-size: 44px;
+    color: aqua;
+}
+.Text2{
+    font-size: 30px;
+    color: white;
+}
+.Iteam1{
+    margin-top: 100px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    margin-bottom: 300px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 2rem;
+    font-size: 1.25rem;
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-left: 20px;
+    border-radius: .3rem;
+}
+.Text3{
+   font-size: 44px;
+    color: aqua;
+}
+.Text4{
+font-size: 20px;
+    color: gray;
+}
+.Text5{
+    height: 600px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.Text6{
+    font-size: 18px;
+    color: black;
+   
+}
+.progress-bar {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: aqua;
+    transition: width .6s ease;
+}
+.Text7{
+    height: 50px;
+    width: 100%;    
+    margin-top: 50px;
+}
+.Text8{
+    height: 292px;
+    width: 100%;    
+   
+  
+}
+.Text9{
+    height: 292px;
+    width: 100%;    
+}
+.Text10{
+    height: 292px;
+    width: 100%;    
+ 
+}
+.Text11{
+    font-size: 12px;
+    color: black;
+}
+.Text12{
+    font-size: 23px;
+    color: black;
+}
+.Text13{
+    font-size: 17px;
+    color: slategray;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 2rem;
+    font-size: 1.25rem;
+    margin-top: 20px;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+.Text14{
+    height: 400px;
+    background-color: gray;
+}
+.Text15 {
+    font-size: 55px;
+    color: white;
+    margin-top: 132px;
+}
+
+.Text16{
+   
+    font-size: 49px;
+    color: black;
+}
+
+.Text17{
+    height: 400px;
+    width: 100%;
+    background-color: beige;
+}
+
+.Text18{
+    height: 200px;
+    width: 100%;
+   
+}
+.Text19{
+    height: 200px;
+    width: 100%;
+   
+}
+.Text20{
+    height: 200px;
+    width: 100%;
+    
+}
+
+.Text21{
+    height: 200px;
+    width: 100%;
+    margin-top:50px;
+    
+}
+.Text22{
+    font-size: 48px;
+    color: black;
+}
+.Text23{
+    font-size: 17px;
+    color: black;
+}
+.Text24{
+    font-size: 30px;
+    color: black;
+}
+.Text25{
+    margin-top: 50px;
+    height: 30px;
+    width: 100%;
+    background-color: black;
+}

@@ -1,0 +1,855 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #23ac26;
+    border-color: #007bff;
+}
+
+.btn-group-sm > .btn,
+.btn-sm {
+    margin-right: 0px;
+}
+
+.navbar-nav {
+    margin-left: 59px;
+}
+
+.search {
+    background-image: url(../Images/magnifying-glass.png);
+    height: 29px;
+    width: 29px;
+    margin-right: 12px;
+}
+
+.B {
+    margin-bottom: 10px;
+    font-size: 80px;
+    text-align: left;
+}
+
+.C {
+    margin-bottom: 200px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.D {
+
+    font-size: 80px;
+    text-align: center;
+}
+
+.E {
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.F {
+    font-size: 80px;
+    text-align: right;
+}
+
+.G {
+    margin-bottom: 300px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.opacity {
+
+    background-position: center;
+}
+
+.H {
+    margin-top: 66px;
+    font-size: 54px;
+    text-align: center;
+}
+
+.I {
+    margin-top: 16px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.bar {
+    height: 3px;
+    width: 50px;
+    ;
+    margin-left: 738px;
+}
+
+.box1 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box2 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box3 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box4 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box5 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box6 {
+    margin-top: 30px;
+    height: 300px;
+
+}
+
+.box7 {
+    height: 300px;
+}
+
+.box8 {
+    height: 300px;
+
+}
+
+.box9 {
+    height: 200px;
+
+}
+
+.box11 {
+    height: 294px;
+    margin-top: 50px;
+
+}
+
+.box10 {
+    height: 600px;
+    background-color: black;
+}
+
+.progress-bar {
+    background-color: #6cefd4;
+}
+
+.progress {
+    height: .7rem;
+    margin-top: 5px;
+}
+
+.J {
+    font-size: 15px;
+    margin-top: 20px;
+    color: gray;
+}
+
+.K {
+    font-size: 20px;
+    margin-top: 20px;
+    color: gray;
+}
+
+.box12 {
+    height: 100px;
+
+}
+
+.box13 {
+    height: 200px;
+
+
+}
+
+.L {
+    font-size: 50px;
+    color: gray;
+    text-align: center
+}
+
+.Icon {
+    height: 56px;
+    margin-top: 118px;
+}
+
+.M {
+    font-size: 30px;
+
+    margin-top: 10px;
+}
+
+.N {
+    font-size: 19px;
+    margin-top: 50px;
+}
+
+.O {
+    font-size: 30px;
+    margin-top: 70px;
+
+}
+
+.AA {
+    background-color: white;
+    margin-top: 20px;
+}
+
+.BB {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+
+}
+
+.P {
+    font-size: 20px;
+    color: gray;
+    margin-left: 29px;
+    margin-top: 19px;
+}
+
+.R {
+    font-size: 20px;
+    color: gray;
+    margin-top: 112px;
+}
+
+.Q {
+    font-size: 30px;
+    margin-top: 49px;
+    color: black;
+}
+
+a {
+    color: #11e4b3;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.Image {
+    height: 500px;
+    background-color: black;
+    width: 100%;
+}
+
+.S {
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+.Bar {
+    height: 10px;
+    width: 119px;
+    border-radius: 14%;
+    margin-left: 867px;
+    background-position: center;
+    background-color: aquamarine;
+}
+
+.T {
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+    margin-top: 15px;
+}
+
+.ImageE {
+    height: 179px;
+
+}
+
+.ImageF {
+    height: 179px;
+
+}
+
+.ImageG {
+    height: 179px;
+
+}
+
+.ImageH {
+    height: 100px;
+    width: 70px;
+    margin-left: 50px;
+
+}
+
+.ImageI {
+    height: 179px;
+
+}
+
+.Text1 {
+    font-size: 50px;
+    color: gray;
+}
+
+.Text2 {
+    font-size: 22px;
+    color: black;
+}
+
+.Text3 {
+    font-size: 11px;
+    color: black;
+}
+
+.CC {
+    height: 200px;
+    width: 100%;
+}
+
+.Text4 {
+
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+.barA {
+    height: 5px;
+    width: 96px;
+    margin-top: 12px;
+    margin-left: 714px;
+    background-color: aqua;
+
+}
+
+.Text5 {
+    margin-top: 20px;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+
+.U {
+    margin-top: 70px;
+}
+
+.V {
+    margin-top: 10px;
+}
+
+.W {
+    margin-top: 10px;
+}
+
+.DD {
+    height: 649Ppx;
+}
+
+.PT1 {
+    height: 647px;
+
+}
+
+.PT2 {
+    height: 647px;
+
+}
+
+.PT3 {
+    height: 647px;
+
+}
+
+.ImageJ {
+    height: 100px;
+    margin-top: 30px;
+    background-position: center;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 85px;
+    background-position: center;
+}
+
+.ImageK {
+    height: 25px;
+}
+
+.ImageL {
+    height: 67px;
+    background-color: azure;
+    margin-top: 20px;
+}
+
+.ImageM {
+    height: 20px;
+
+}
+
+.ImageN {
+    height: 20px;
+
+}
+
+.ImageO {
+    height: 20px;
+
+}
+
+.ImageP {
+    height: 20px;
+}
+
+.ImageQ {
+    height: 20px;
+
+}
+
+.h1,
+h1 {
+    font-size: 1.5rem;
+
+}
+
+.Text6 {
+    font-size: 25px;
+    color: gray;
+}
+
+.Text7 {
+    font-size: 45px;
+    color: #a09d9d;
+}
+
+.Text8 {
+    font-size: 15px;
+    color: darkgray;
+    margin-top: 20px;
+}
+
+.ImageT {
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid;
+    padding: 0.395rem 1.95rem;
+    font-size: 1.5rem;
+    line-height: 1.7;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.Text9 {
+    color: white;
+    font-size: 45px;
+}
+
+.ImageU {
+    margin-top: 20px;
+    height: 67px;
+    background-color: #1cb9c8;
+}
+
+.btn1 {
+    background-color: #1cb9c8;
+}
+
+.btn-group-lg > .btn,
+.btn-lg {
+    padding: 0.7rem 2rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
+.ImageV {
+    height: 500px;
+    width: 100%;
+}
+
+.Text10 {
+    height: 500px;
+    width: 100%;
+
+}
+
+.Text11 {
+    height: 500px;
+    width: 100%;
+
+
+}
+
+.Text12 {
+    height: 500px;
+    width: 100%;
+
+}
+
+.Text10,
+.Text11,
+.Text12 {
+    float: left;
+}
+
+.Text13 {
+    font-size: 45px;
+    color: white;
+}
+
+.Button {
+    height: 6px;
+    border-radius: 12px;
+    width: 166px;
+    background-color: #1cb9c8;
+    margin-top: 15px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1cb9c8;
+    border-color: #007bff;
+}
+
+.Text14 {
+    font-size: 20px;
+    color: white;
+}
+
+.DarkBackground {
+    opacity: .4;
+    height: 602px;
+    width: 100%;
+    margin-top: -21px;
+
+    background-color: #000000e8;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+}
+
+.Text15 {
+    height: 250px;
+    width: 100%;
+
+}
+
+.Text16 {
+    height: 185px;
+    background-color: white;
+    opacity: .85;
+}
+
+.Text17 {
+    height: 100px;
+
+}
+
+.Text16,
+.Text17 {
+    float: left;
+}
+
+.Text18 {
+    font-size: 97px;
+    color: #1cb9c8;
+}
+
+.Text19 {
+    font-size: 18px;
+    color: black;
+}
+
+.Text20{
+    font-size: 55px;
+    color: black;
+    text-align: center;
+}
+.Text21 {
+    margin-left: 716px;
+    margin-top: 10px;
+    height: 6px;
+    width: 99px;
+    border-radius: 50px;
+    background-color: aqua;
+}
+.Text22{
+    font-size: 20px;
+    color: gray;
+    margin-top: 10px;
+    text-align: center;
+}
+.Text23{
+    height: 530px;
+    width: 100%;
+    
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    height: 313px;
+}
+.Text24 {
+    height: 29px;
+    font-size: 18px;
+    color: gray;
+}
+.h5, h5 {
+    font-size: 1.50rem;
+}
+.Text25{
+    height: 200px;
+    background-color: green;
+}
+.Text26{
+    height: 540px;
+ 
+}
+
+.Text27{
+    font-size: 30px;
+    color: black;
+}
+.Text28{
+    font-size: 18px;
+    color: black;
+    margin-top: 20px;
+}
+.Text29 {
+    height: 3px;
+    margin-top: 15px;
+    width: 108px;
+    border-radius: 70px;
+    background-color: aquamarine;
+}
+.form-control {
+    margin-top: 15px;
+}
+.form-control2 {
+    display: block;
+    width: 100%;
+    height: calc(9.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-group-lg > .btn, .btn-lg {
+    padding: 0.7rem 2rem;
+    margin-top: 10px;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+.Text30{
+    height: 540px;
+ 
+}
+.Text31{
+    height: 540px;
+   
+}
+.Text32{
+    height: 135px;
+   
+}
+.Text33{
+    font-size: 26px;
+    color: black;
+}
+.Text34{
+    height: 1px;
+    width: 86%;
+    background-color: #d8d3d3;
+}
+.Text35 {
+    height: 97px;
+    width: 91%;
+    
+    margin-top: 3px;
+}
+.Text36{
+    height: 97px;
+
+}
+.Text37{
+    height: 97px;
+   width: 88%;
+  
+}
+.img-fluid {
+    max-width: 100%;
+    height: 63px;
+    margin-left: 10;
+    background-position: center;
+}
+.Text38 {
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 10px;
+    color: gray;
+}
+.Text39{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+.Text40{
+    height: 280px;
+   
+}
+.Text41{
+    height: 280px;
+   
+}
+
+.Text42{
+    height: 280px;
+   
+}
+
+.Text43{
+    height: 280px;
+   
+}
+.Text44{
+    font-size: 29px;
+    color: white;
+}
+.Text45{
+    font-size: 14px;
+    color: white;
+}
+.Text46 {
+    height: .5px;
+    background-color: gray;
+    border-radius: 50px;
+}
+.Text47 {
+
+    margin-top: 18px;
+    width: 29px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+}
+.Text48 {
+   
+    margin-top: 18px;
+    width: 29px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+}
+.Text49 {
+    
+    margin-top: 18px;
+    width: 29px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+}
+.Text47, .Text48, .Text49{
+    float: left;
+    height: 20px;
+}
+.Text50{
+    height: 90px;
+   
+}
+.Text51 {
+    margin-top: 10px;
+    height: 1px;
+    background-color: gray;
+    border-radius: 50px;
+}
+.Text52{
+    height: 90px;
+    width: 100%;
+    background-color: aquamarine;
+}
+.Text53{
+    height: 90px;
+    width: 100%;
+   
+}
+
+.Text54{
+    font-size: 14px;
+    color: #007bff;
+}
+.Text55{
+    margin-top: 10px;
+    height: 90px;
+   
+}
+.Text56{
+    font-size: 14px;
+    color: white;
+}
+.Text57{
+    margin-top: 10px;
+    height: 1px;
+    background-color: gray;
+    border-radius: 50px;
+}
+.Text58{
+    margin-top: 10px;
+    font-size: 14px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

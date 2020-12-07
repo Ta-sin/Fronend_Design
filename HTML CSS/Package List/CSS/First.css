@@ -1,0 +1,155 @@
+.Text1{
+    height: 570px;
+    width: 100%;
+    background-color: aqua;
+}
+.Text2{
+    height: 70px;
+    width: 100%;
+    background-color: orangered;
+}
+.Font1 {
+    font-size: 26px;
+    color: white;
+    margin-top: 15px;
+}
+.Text3{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+.Font2, .Font3{
+    float: left;
+}
+.Font2{
+    margin-top: 30px;
+    font-size: 35px;
+    color: white;
+    margin-left: 165px;
+}
+.Font3{
+    margin-top: 30px;
+    font-size: 15px;
+    color: white;
+}
+.Text4{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+.Font4, .Font5{
+    float: left;
+}
+.Font4 {
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 5px;
+}
+.Font5{
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    opacity: .5;
+}
+.Text5{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.Text6{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+.Font6, .Font7{
+    float: left;
+}
+.Font6 {
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 5px;
+}
+.Font7 {
+    font-size: 11px;
+    color: white;
+    margin-top: 2px;
+    text-align: center;
+}
+.btn1 {
+    height: 20px;
+    width: 69px;
+    border-radius: 20px;
+    background-color: orange;
+    border: none;
+    margin-top: 14px;
+}
+.Text7{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.Text8{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+.Text9{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.Text10{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+.Font8, .Font9{
+    float: left;
+}
+.Font8{
+    margin-top: 30px;
+    font-size: 35px;
+    color: black;
+    margin-left: 21px;
+}
+.Font9{
+    margin-top: 30px;
+    font-size: 15px;
+    color: black;
+}
+.Font10 {
+    font-size: 15px;
+    color: white;
+    margin-top: 2px;
+    text-align: center;
+}
+.btn2 {
+    height: 42px;
+    width: 122px;
+    background-color: orangered;
+    border: none;
+    margin-top: 31px;
+    margin-left: 150px;
+}
+.Text02{
+    height: 70px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+.btn02 {
+    height: 42px;
+    width: 122px;
+    background-color: deepskyblue;
+    border: none;
+    margin-top: 31px;
+    margin-left: 150px;
+}
+.color {
+    height: 695px;
+    width: 100%;
+    background-color: #b00d00;
+}
