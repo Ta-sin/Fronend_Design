@@ -1,0 +1,1232 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'lato', sans-serif;
+}
+.FirstBar{
+    background-color: #4575bd;
+    height: 56px;
+    width: 1518px;
+    max-height: 36px;
+}
+
+.Left{
+    float: left;
+     
+}
+.LinkLeft{
+    
+}
+.Link{
+    padding-left: 70px;
+}
+.Link>li{
+    float: left;
+    list-style: none;
+}
+.Link > li > a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 11px 8px;
+    font-weight: 500;
+}
+.SocialIcons{
+    
+}
+.SocialIcons> li{
+    float: right;
+    list-style: none;
+}
+.SocialIcons> li> a{
+    display: block;
+    padding:  10px 7px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+}
+.Language > a{
+    padding:  10px 78px !important;
+}
+.SecondBar{
+    overflow: hidden;
+    height: 16px;
+    width: 1519px;
+    padding-top: 44px;
+}
+.Logo{
+    float: left;
+    margin-top: -35px;
+}
+.Logo > img{
+    height: 45px;
+    padding-left: 80px;
+    padding-top: 0px;
+}
+.SecondBar> ul{
+    margin-top: -45px;
+    float: right;
+    margin-right: 200px;
+}
+.SecondBar> ul> li{
+    float: left;
+    list-style: none;
+    padding: 20px 17px;
+}
+.SecondBar> ul> li> a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: blue;
+}
+.SecondBar> ul> li> a> i{
+    padding-right: 20px;
+    text-align: center;
+}
+.BTNa{
+        background-color: #20d397;
+    border: none;
+    margin-left: 1035px;
+    margin-top: -35px;
+    box-shadow: none;
+    padding: 12px 39px;
+    position: absolute;
+}
+.BTNa:hover{
+    background-color: black;
+}
+.BTNa> a{
+    text-decoration: none;
+    color: aliceblue !important;
+    font-size: 10px;
+    font-weight: 400;
+}
+.FirstPart{
+    height: 1141px;
+    width: 1519px;
+}
+.Image{
+    background-image: url(../Images/hero1.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 900px;
+}
+.DarkBackground{
+    height: 900px;
+    position: absolute;
+    background: black;
+    opacity: 0.26;
+}
+.Content{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.Content > h4{
+    font-size: 20px;
+    padding-top: 284px;
+}
+.Content > h1{
+    font-size: 126px;
+    font-weight: 9000;
+}
+.Facilities{
+    overflow: hidden;
+    position: absolute;
+    width: 900px;
+    height: 369px;
+    margin-left: 343px;
+    margin-top: -128px;
+}
+.Box1, .Box2, .Box3{
+    float: left;
+    height: 400px;
+    width: 300px;
+}
+.Box1{
+    background-color: #1dcac7;
+}
+.Box2{
+    background-color: #2a93d5;
+}
+.Box3{
+    background-color: #4575bd;
+}
+.Icon> i{
+    color: azure;
+    font-size: 66px;
+    margin-top: 43px;
+    margin-left: 30px;
+}
+.Head{
+    color: white;
+    margin-left: 30px;
+    font-size: 26px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 20px;
+}
+.Para{
+    color: white;
+    font-size: 18px;
+    margin-top: 28px;
+    margin-left: 30px;
+}
+.BTNb{
+    background-color: transparent;
+    border: 1.5px solid white;
+    box-shadow: none;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+.BTNb:hover{
+    background-color: black;
+}
+.BTNb> a{
+    text-decoration: none;
+    color: white!important;
+    font-size: 18px;
+    font-weight: 400;
+}
+.SecondPart{
+    height: 316px;
+    width: 1519px;
+}
+.SecondPart > h6{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 115px;
+    color: grey;
+}
+.SecondPart > h1{
+    font-size: 65px;
+    padding-top: 24px;
+    text-align: center;
+    color: #1dcac7;
+}
+.ImageA{
+    background-image: url(../Images/title-bg.png);
+    background-position: bottom;
+    background-size: contain;
+    margin-left: 619px;
+    margin-top: 18px;
+    height: 36px;
+    width: 298px;
+    
+}
+.ThirdPart{
+    
+    height: 500px;
+    width: 1200px;
+    color: aqua;
+    margin-left: 159px;
+}
+.Box5, .Box6, .Box4{
+    
+    float: left;
+    height: 500px;
+    width: 33.3333333%;
+    background-position: center;
+}
+.ImageB{
+    background-image: url(../Images/icon1.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 134px;
+    margin-top: 60px;
+    height: 163px;
+    width: 125px;
+}
+.ImageC{
+    background-image: url(../Images/icon2.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 134px;
+    margin-top: 60px;
+    height: 163px;
+    width: 125px;
+}
+.ImageD{
+    background-image: url(../Images/icon3.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 134px;
+    margin-top: 60px;
+    height: 163px;
+    width: 125px;
+}
+.HeadA{
+    color: #2a93d5;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 20px;
+}
+.Dotted{
+    height: 31px;
+    width: 46px;
+    color: black;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 9px 0px;
+}
+.ParaA{
+    color: gray;
+    font-size: 18px;
+    margin-top: 21px;
+    margin-left: 37px;
+    position: relative;
+}
+.FourthPart{
+    height: 500px;
+    width: 1519px;
+}
+.ImageI{
+    background-image: url(../Images/hero1.jpg);
+    background-size: cover;
+    position: relative;
+    height: 500px;
+    
+}
+.BlueBackground{
+    height: 500px;
+    position: relative;
+    background: #0c0c9b;
+    opacity: 0.36;
+}
+.IconI> i{
+    position: absolute;
+    color: #f1f2e9;
+    font-size: 72px;
+    margin-left: 712px;
+    margin-top: -75px;
+}
+.Information{
+    position: relative;
+}
+.HeadB{
+    color: #fefefe;
+    text-align: center;
+    font-size: 76px;
+    font-weight: 400;
+    font: bold;
+    margin-top: -306px;
+}
+.Paraa{
+    color: #fefefe;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 268px;
+    background-position: center;
+}
+.BTNc{
+    background-color: white;
+    box-shadow: none;
+    margin-left: 661px;
+    margin-top: 32px;
+    padding: 20px 40px;
+}
+.BTNc:hover{
+    background-color: black;
+}
+.BTNc> a{
+    text-decoration: none;
+    color: #0c0c9b!important;
+    font-size: 18px;
+    font-weight: 400;
+}
+.FifthPart{
+    height: 700px;
+    width: 1519px;
+}
+.Box7, .Box8, .Box9{
+    
+    float: left;
+}
+.Box7{
+    background-color: #4575bd;
+    height: 587px;
+    width: 250px;
+    margin-left: 181px;
+    margin-top: -71px;
+}
+.Box8{
+    
+    height: 420px;
+    width: 400px;
+    margin-left: 71px;
+    margin-right: 33px;
+    margin-top: 95px;
+}
+.Box9{
+    height: 420px;
+    width: 400px;
+    margin-top: 95px;
+}
+.HeadC{
+    color: gray;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 50px;
+    font: bold;
+    padding-top: 100px;
+    
+}
+.ParaB{
+    color: #1dcac7;
+    font-size: 42px;
+    font-weight: 400;
+    text-align: center;
+    background-position: center;
+    margin-top: 5px;
+    margin-right: 195px;
+}
+.BTNd{
+    background-color: white;
+    box-shadow: none;
+    padding: 3px 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 336px;
+}
+.HeadD{
+    color: #faf7f7;
+    padding-top: 35px;
+    padding-left: 14px;
+    font-size: 22px;
+    font-weight: 400;
+}
+.ParaC{
+    color: #fbffff;
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 15px;
+    padding: 7px 5px;
+    
+}
+.BTNe{
+    background-color: transparent;
+    border: 1.5px solid white;
+    box-shadow: none;
+    margin-left: 19px;
+    margin-top: 20px;
+    padding: 13px 25px;
+}
+.ImageE{
+    background-image: url(../Images/gallery1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 0px;
+    margin-top: px;
+    height: 205px;
+    width: 100%;
+}
+.Icona> i{
+    color: #1dcac7;
+    font-size: 40px;
+    margin-left: 0px;
+    position: absolute;
+    margin-top: -30px;
+}
+.HeadE{
+    color: #1dcac7;
+    font-size: 30px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 23px;
+    margin-left: 0px;
+}
+.ParaD{
+    color: #938d8d;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 11px;
+    margin-left: 0px;
+}
+.BTNf{
+    background-color: #1dcac7;
+    box-shadow: none;
+    padding: 18px 34px;
+    margin-top: 38px;
+    margin-left: 0px;
+}
+.BTNf> a{
+    text-decoration: none;
+    color: white !important;
+    font-size: 18px;
+    font-weight: 400;
+}
+.ImageF{
+    background-image: url(../Images/gallery2.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 0px;
+    margin-top: px;
+    height: 205px;
+    width: 100%;
+}
+.Iconb> i{
+    color: #1dcac7;
+    font-size: 40px;
+    margin-left: 0px;
+    position: absolute;
+    margin-top: -28px;
+}
+.HeadF{
+    color: #1dcac7;
+    font-size: 30px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 23px;
+    margin-left: 0px;
+}
+.ParaE{
+    color: #938d8d;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 11px;
+    margin-left: 0px;
+}
+.BTNg{
+    background-color: #1dcac7;
+    box-shadow: none;
+    padding: 18px 34px;
+    margin-top: 38px;
+    margin-left: 0px;
+}
+.BTNg> a{
+    text-decoration: none;
+    color: white !important;
+    font-size: 18px;
+    font-weight: 400;
+}
+.SixthPart{
+    padding-top: 107px;
+    height: 536px;
+    width: 1519px;
+}
+.ImageG, .Contenta{
+    height: 536px;
+    width: 50%;
+    float: left;
+}
+.ImageG{
+    background-image: url(../Images/image5.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 536px;
+    width: 50%;
+    margin-left: .006px;
+}
+.Contenta{
+    background-color: #4575bd;
+}
+.A{
+    color: #acaaaa;
+    font-size: 12px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 93px;
+    margin-left: 68px;
+}
+.B{
+    color: white;
+    font-size: 44px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 50px;
+    margin-left: 68px;
+}
+.C{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 52px;
+    margin-left: 68px;
+}
+.BTNh{
+    background-color: #1dcac7;
+    box-shadow: none;
+    border: 1.5px solid white;
+    padding: 18px 67px;
+    margin-top: 52px;
+    margin-left: 68px;
+}
+.BTNh> a{
+    text-decoration: none;
+    color: white !important;
+    font-size: 20px;
+    font-weight: 400;
+}
+.SeventhPart{
+    
+    padding-top: 107px;
+    height: 264px;
+    width: 1519px;
+}
+.D{
+    color: gray;
+    font-size: 14px;
+    font-weight: 400;
+    font: bold;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.HeadG{
+    color: aquamarine;
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+}
+.ImageH{
+    background-image: url(../Images/title-bg.png);
+    background-position: center;
+    background-size: contain;
+    margin-left: 0px;
+    margin-top: px;
+    height: 33px;
+    margin-left: 661px;
+    width: 14%;  
+}
+.EigthPart{
+    height: 761px;
+    width: 1519px;
+}
+.Box10, .Box11, .Box12, .Box13{
+    float: left;
+    height: 595px;
+    width: 301px;
+    margin-left: 62px;
+    margin-top: 108px;
+}
+.Box10{
+    background-color: #4575bd;
+    margin-left: 50px;
+}
+.Box11{
+     background-color: #4575bd;
+}
+.Box12{
+     background-color: #4575bd;
+}
+.Box13{
+     background-color: #4575bd;
+}
+.ImageL{
+    background-image: url(../Images/doctor1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 335px;
+    width: 100%;
+    margin-left: 0px;
+}
+.ImageJ{
+    background-image: url(../Images/doctor2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 335px;
+    width: 100%;
+    margin-left: 0px;
+}
+.ImageK{
+    background-image: url(../Images/doctor3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 335px;
+    width: 100%;
+    margin-left: 0px;
+}
+.ImageL{
+    background-image: url(../Images/doctor4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 335px;
+    width: 100%;
+    margin-left: 0px;
+}
+.ParaF{
+        color: white;
+    font-size: 15px;
+    font-weight: 400;
+    font: bold;
+    margin-top: 20px;
+    margin-left: 52px;
+}
+.E{
+    color: white;
+    font-size: 31px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 372px;
+    margin-left: 53px;
+}
+.BTNi{
+    background-color: transparent;
+    box-shadow: none;
+    border: 1.5px solid white;
+    margin-left: 53px;
+    margin-top: 30px;
+    padding: 17px 28px;
+}
+.BTNi:hover{
+    background-color: white;
+}
+.BTNi> a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+.NinthPart{
+    background-color: #0c0c9b;
+    height: 220px;
+    width: 1519px;
+    margin-top: 100px;
+}
+.Box14, .Box15{
+    float: left;
+    height: 220px;
+    width: 50%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.Box14{
+    background-color: #4575bd;
+}
+.Box15{
+    background-color: #4575bd;
+}
+.Box16, .Box17, .Box18{
+    float: left;
+    height: 220px;
+    width: 33.33333%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.Box16{
+    background-color: #4575bd;
+}
+.Box17{
+    background-color: #4575bd;
+}
+.Box18{
+    background-color: #4575bd;
+}
+.F{
+    color: gray;
+    font-size: 15px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 0px;
+    margin-left: 76px;
+    margin-top: 50px;
+}
+.HeadH{
+    color: white;
+    font-size: 52px;
+    font-weight: 400;
+    font: bold;
+    margin-left: 76px;
+    margin-top: 32px;
+}
+.G{
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 0px;
+    margin-left: 76px;
+    margin-top: 50px;
+}
+.TenthPart{
+    height: 300px;
+    width: 1519px;
+}
+.H{
+    color: gray;
+    font-size: 15px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 0px;
+    text-align: center;
+    padding-top: 60px;
+}
+.HeadI{
+    color:aqua; 
+    font-size: 55px;
+    font-weight: 400;
+    font: bold;
+    text-align: center;
+    margin-left: 86px;
+    margin-top: 32px;
+}
+.ImageM{
+    background-image: url(../Images/title-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 65px;
+    width: 16%;
+    margin-top: 15px;
+    margin-left: 688px;
+}
+.EleventhPart{
+    
+    height: 600px;
+    width: 1519px;
+}
+.Box19, .Box20{
+    margin-top: 100px;
+    margin-left: 251px;
+    float: left;
+    height: 480px;
+    width: 400px;
+}
+.Box19{
+    background-color: white;
+    box-shadow: 5px 1px 20px;
+}
+.Box20{
+    background-color: white;
+    box-shadow: 5px 1px 20px;
+}
+.Box21{
+    height: 122px;
+    background-image: url(../Images/headshot1.png);
+    border-radius: 64%;
+    width: 31%;
+    background-position: center center;
+    margin-left: 34%;
+    margin-bottom: 55px;
+}
+.HeadJ{
+    color:aqua; 
+    font-size: 55px;
+    font-weight: 400;
+    font: bold;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.I{
+    color: gray;
+    font-size: 15px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 0px;
+    text-align: center;
+    margin-top: 10px;
+}
+.ParaG{
+    color: gray;
+    font-size: 21px;
+    font-weight: 400;
+    font: bold;
+    padding-top: 0px;
+    text-align: center;
+    margin-top: 30px;
+}
+.Box23{
+    height: 122px;
+    background-image: url(../Images/headshot2.png);
+    border-radius: 64%;
+    width: 31%;
+    background-position: center center;
+    margin-left: 34%;
+    margin-bottom: 55px;
+}
+.TwelvePart{
+    margin-top: 100px;
+    height: 250px;
+    width: 1519px;
+}
+.Box22{
+    
+}
+.Box24{
+    
+}
+.Box25, .Box26, .Box27, .Box28, .Box29{
+    float: left;
+    height: 250px;
+    width: 200px;   
+    margin-left: 86px;
+}
+.Box25{
+    background-image: url(../Images/logo1.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 118px;
+    width: 193px;
+}
+.Box26{
+    background-image: url(../Images/logo2.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 118px;
+    width: 193px;
+}
+.Box27{
+    background-image: url(../Images/logo3.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 118px;
+    width: 193px;
+}
+.Box28{
+    background-image: url(../Images/logo4.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 118px;
+    width: 193px;
+}
+.Box29{
+    background-image: url(../Images/logo5.jpg);
+    background-position: center;
+    background-size: contain;
+    height: 118px;
+    width: 193px;
+}
+.ThirteenPart{
+    height: 700px;
+    width: 1519px;
+}
+.Box30{
+    background-color: #4575bd;
+    height: 150px;
+    width: 1519px;
+}
+.Box31{
+    background-color: #4575bd;
+    height: 100px;
+    width: 1519px;
+}
+.Box32{
+    background-color: #4575bd;
+    height: 450px;
+    width: 1519px;
+}
+.Box33{
+    background-color: #4575bd;
+    height: 50px;
+    width: 1519px;
+}
+.Box34, .Box35, .Box36, .Box37{
+    float: left;
+    height: 150px;
+    margin-left: 57px;
+}
+.Box34{  
+    background-position: center;
+    background-size: contain;
+    height: 150px;
+    width: 300px;
+}
+.Box35{
+    background-position: center;
+    background-size: contain;
+    height: 150px;
+    width: 300px;
+}
+.Box36{
+    background-color: #4575bd;
+    background-position: center;
+    background-size: contain;
+    height: 150px;
+    width: 300px;
+}
+.Box37{
+    background-color: #4575bd;
+    background-position: center;
+    background-size: contain;
+    height: 150px;
+    width: 300px;
+}
+.ImageN{   
+    background-image: url(../Images/Untitled-1.jpg.gif);
+    background-color: transparent;
+    background-position: center;
+    background-size: cover;
+    height: 103px;
+    width: 28%;
+    margin-top: 5px;
+    margin-left: 19px;
+}
+.HeadK{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    font: bold;
+    text-align: right;
+    margin-right: 47px;
+    margin-top: -70px;
+}
+.ParaH{
+        color: white;
+    font-size: 15px;
+    font-weight: 400;
+    font: bold;
+    text-align: right;
+    margin-right: 101px;
+    margin-top: 4px;
+}
+.HeadL{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    font: bold;
+    text-align: right;
+    margin-right: 62px;
+    margin-top: -70px;
+}
+.Box38, .Box39{
+    float: left;
+    margin-left: 88px;
+    margin-top: 25px;
+    height: 50px;
+    width: 626px;
+}
+.Box38{
+        background-color: #4575bd;
+
+}
+.Box39{
+        background-color: #4575bd;
+
+}
+.HeadM{
+    color: #fafafa;
+    font-size: 16px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-right: 0px;
+    margin-top: 15px;
+}
+.SocialIconsA> li{
+    float: right;
+    list-style: none;
+    margin-right: 33px;
+    margin-top: -7px;
+}
+.SocialIconsA> li> a{
+    display: block;
+    padding-right: -75px;
+    margin-top: -25px;
+    padding: 8px 8px;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+}
+.Box44, .Box45, .Box46{
+    float: left;
+    height: 450px;
+    margin-left: 37px;
+    
+}
+.Box44{
+    margin-left: 33px;
+    width: 412px;
+    background-color: #4575bd;
+}
+.Box45{
+    background-color: #4575bd;
+    width: 440px;
+}
+.Box46{
+    background-color: #4575bd;
+    width: 505px;
+}
+.HeadN{
+    padding-top: 43px;
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 49px;
+    margin-top: 36px;
+}
+.J{
+    color: #fafafa;
+    font-size: 21px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.ParaI{
+    color: #fafafa;
+    font-size: 16px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 49px;
+    margin-top: 52px;
+}
+.Box47{
+    background-color: #4575bd;
+    height:150px;
+    width: 440px;
+}
+.Box48{
+    background-color: #4575bd;
+    height:300px;
+    width: 440px;
+}
+.Box49, .Box50{
+    float: left;
+    width: 50%;
+}
+.Box49{
+    background-color: #4575bd;
+    height:300px;
+}
+.Box50{
+    background-color: #4575bd;
+    height:300px;
+}
+.Last1{
+    padding-left: 24px;
+}
+.Last1>li{
+    float: left;
+    color: aliceblue;
+}
+.Last1 > li > a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 13px 12px;
+    font-weight: 500;
+}
+.Last2{
+    padding-left: 24px;
+}
+.Last2>li{
+    float: left;
+    color: aliceblue;
+}
+.Last2 > li > a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 13px 12px;
+    font-weight: 500;
+}
+.HeadO{
+    padding-top: 76px;
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.HeadP{
+    padding-top: 72px;
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.Box51{
+    background-color: #4575bd;
+    height:150px;
+    width: 505px;
+}
+.Box52{
+    height:300px;
+    width: 505px;
+}
+.Box53{
+    background-color: #4575bd;
+    width: 505px;
+    height: 117px;
+}
+.Box54{
+    background-color: #4575bd;
+    width: 505px;
+    height: 150px;
+}
+.ImageP, .ImageQ{
+    float: left;
+    width: 124px;
+    height: 140px;
+    margin-right: 13px;
+    margin-top: 10px;
+}
+.ImageP{   
+    background-image: url(../Images/gallery1.jpg);
+    background-position: center;
+    background-size: contain;
+    width: 38%;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.ImageQ{   
+    background-image: url(../Images/gallery2.jpg);
+    background-color: gainsboro;
+    background-position: center;
+    background-size: contain;
+    width: 38%;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.ImageR, .ImageS{
+    float: left;
+    width: 124px;
+    height: 140px;
+    margin-right: 13px;
+}
+.ImageR{   
+    background-image: url(../Images/gallery6.jpg);
+    background-position: center;
+    background-size: contain;
+    width: 38%;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.ImageS{   
+    background-image: url(../Images/gallery4.jpg);
+    background-color: gainsboro;
+    background-position: center;
+    background-size: contain;
+    width: 38%;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.HeadQ{
+    padding-top: 13px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    font: bold;
+    text-align: left;
+    margin-left: 73px;
+    margin-top: 0px;
+}
+
